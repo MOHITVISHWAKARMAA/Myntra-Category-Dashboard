@@ -2,7 +2,7 @@
 **Project Overview:** A Decision-Intelligence Dashboard designed for Myntra’s Category Managers to optimize Revenue, Margins, and Inventory Health.
 
 ## 📊 Dashboard Preview
-
+https://app.powerbi.com/links/sfhgEna-K6?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare
 
 ## 🔍 Key Insights & Business Value
 1. **Return RCA (Root Cause Analysis):** Identified that High-Rated brands (4.5+) have high returns, pinpointing a **Size/Fit discrepancy** instead of quality issues.
@@ -17,3 +17,4 @@
 ## 📈 Impact
 - Projected **5-8% Logistics Savings** through size-chart optimization.
 - Improved **Working Capital Efficiency by 15%** via aged stock liquidation strategies.
+
