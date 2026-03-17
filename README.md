@@ -3,6 +3,8 @@
 
 ## 📊 Dashboard Preview
 https://app.powerbi.com/links/sfhgEna-K6?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare
+<img width="1298" height="726" alt="Dashboard Image" src="https://github.com/user-attachments/assets/3a51da7d-853c-4691-8dff-9dadab83dee4" />
+
 
 ## 🔍 Key Insights & Business Value
 1. **Return RCA (Root Cause Analysis):** Identified that High-Rated brands (4.5+) have high returns, pinpointing a **Size/Fit discrepancy** instead of quality issues.
